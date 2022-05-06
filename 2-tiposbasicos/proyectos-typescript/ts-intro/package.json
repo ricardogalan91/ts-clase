@@ -1,0 +1,15 @@
+{
+  "name": "ts-intro",
+  "version": "1.0.0",
+  "description": "\"este es mi primer proyecto de node\"",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"ts",
+    "typescript\""
+  ],
+  "author": "\"Ricardo Galan\"",
+  "license": "MIT"
+}
